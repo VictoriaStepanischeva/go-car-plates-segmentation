@@ -7,8 +7,8 @@ import (
 	"flag"
 	"path/filepath"
 	"time"
-	"detect/extras"
-	"detect/layers"
+	"github.com/VictoriaStepanischeva/go-car-plates-segmentation/extras"
+	"github.com/VictoriaStepanischeva/go-car-plates-segmentation/layers"
 	"io/ioutil"
 
 	"gocv.io/x/gocv"
